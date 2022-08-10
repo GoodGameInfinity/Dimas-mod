@@ -8,7 +8,6 @@ Dima's mod is in a way remade Minecraft which has:
 <br>- A world "HUB" system.
 <br>- Support for Minecraft multiplayer as a "legacy" system (offline & online)
 <br>- In-game version switcher
-<br>- out-of-box Vulkan render support (for people who don't understand FPS bo brrrrrrr)
 <p align=center><br>And all of it is done thru "modules". 
 
 ## About possible copyright issues
